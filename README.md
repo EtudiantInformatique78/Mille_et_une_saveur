@@ -12,3 +12,7 @@ Faire preuve d'esthétisme. Le but est qu'on ai envie d'aller dans son magasin.
  - Responsive
  - Esthétique
 
+
+# Originalité
+
+Il serait appréciable que le site web soit accessible aux personnes en situation de handicap.
