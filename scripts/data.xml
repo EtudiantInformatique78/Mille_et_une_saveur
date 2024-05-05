@@ -1,0 +1,210 @@
+<menu>
+  <liste_sandwichs>
+    <sandwich nom='Kebab' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </sandwich>
+    <sandwich nom='Royal kebab (oeuf, fromage)' image=''>
+      <simple prix='8.50€' />
+      <frites prix='9.00€' />
+      <menu prix='9.50€' />
+    </sandwich>
+    <sandwich nom='Poulet' image=''>
+      <simple prix='7.50€' />
+      <frites prix='8.00€' />
+      <menu prix='9.00€' />
+    </sandwich>
+    <sandwich nom='Kefta' image=''>
+      <simple prix='7.50€' />
+      <frites prix='8.00€' />
+      <menu prix='9.00€' />
+    </sandwich>
+    <sandwich nom='Steak' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </sandwich>
+    <sandwich nom='Agneau' image=''>
+      <simple prix='8.50€' />
+      <frites prix='9.00€' />
+      <menu prix='10.00€' />
+    </sandwich>
+    <sandwich nom='Cordon bleu (dinde)' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />  
+    </sandwich>
+    <sandwich nom='Falafel (boulettes pois chiches)' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />  
+    </sandwich>
+    <sandwich nom='Végétarien (oeuf, mozza, cheddar)' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />  
+    </sandwich>
+  </liste_sandwichs>
+  <liste_tacos>
+    <tacos nom='Kebab' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.00€' />
+    </tacos>
+    <tacos nom='Poulet' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.50€' />
+    </tacos>
+    <tacos nom='Steak' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.00€' />
+    </tacos>
+    <tacos nom='Cordon bleu (dinde)' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.00€' />
+    </tacos>
+    <tacos nom='Nuggets' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.00€' />
+    </tacos>
+    <tacos nom='Falafel' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='9.00€' />
+    </tacos>
+    <tacos nom='2 viandes' image=''>
+      <simple prix='10.00€' />
+      <frites prix='11.00€' />
+      <menu prix='13.00€' />
+    </tacos>
+  </liste_tacos>
+  <nuggets>
+    <six image=''>
+      <simple prix='6.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.50€' />
+    </six>
+    <neuf image=''>
+      <simple prix='8.00€' />
+      <frites prix='9.50€' />
+      <menu prix='10.50€' />    
+    </neuf>
+  </nuggets>
+  <formules_saveurs>
+    <L nom='1001 Saveurs L (Kebab + Cheese)' image=''>
+      <simple prix='13.00€' />
+      <frites prix='13.50€' />
+      <menu prix='14.50€' />
+    </L>
+    <XL nom='1001 Saveurs XL (Kebab + Triple cheese)' image=''>
+      <simple prix='14.00€' />
+      <frites prix='14.50€' />
+      <menu prix='15.50€' />
+    </XL>
+  </formules_saveurs>
+  <liste_burger>
+    <burger nom='Hamburger' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </burger>
+    <burger nom='Cheeseburger' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </burger>
+    <burger nom='Triple cheese' image=''>
+      <simple prix='8.00€' />
+      <frites prix='8.50€' />
+      <menu prix='10.00€' />
+    </burger>
+    <burger nom='Royal Cheese (2 steaks, oeuf, fromage)' image=''>
+      <simple prix='8.50€' />
+      <frites prix='9.50€' />
+      <menu prix='10.50€' />
+    </burger>
+  </liste_burger>
+  <liste_panini>
+    <panini nom='Kebab' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </panini>
+    <panini nom='Poulet' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </panini>
+    <panini nom='Steak' image=''>
+      <simple prix='7.00€' />
+      <frites prix='7.50€' />
+      <menu prix='8.20€' />
+    </panini>
+    <panini nom='Fromages' image=''>
+      <simple prix='6.50€' />
+      <frites prix='7.00€' />
+      <menu prix='8.00€' />
+    </panini>
+  </liste_panini>
+  <liste_assiette>
+    <assiette nom='Kebab' prix='10.50€' image=''/>
+    <assiette nom='Kefta' prix='11.00€' image=''/>
+    <assiette nom='Poulet' prix='11.00€' image=''/>
+    <assiette nom='Cordon bleu' prix='10.50€' image=''/>
+    <assiette nom='Agneau' prix='13.00€' image=''/>
+    <assiette nom='Mixte' prix='15.00€' image=''/>
+    <assiette nom='Falafel (boulettes pois chiches)' prix='10.50€' image=''/>
+  </liste_assiette>
+  <liste_salades>
+    <salade nom='Poulet' prix='9.00€' image='' />
+    <salade nom='Kebab' prix='9,00€' image='' />
+    <salade nom='Falafel' prix='9,00€' image='' />
+  </liste_salades>
+  <desserts>
+    <dessert nom='Panini nutella' prix='4,50€' image='' />
+  </desserts>
+  <liste_boissons>
+    <boisson nom='Eau minérale' prix='1,50€' image=''/>
+    <boisson nom='Soda 33cl' prix='2,20€' image=''/>
+    <boisson nom='Soda 50cl' prix='2,80€' image=''/>
+    <boisson nom='Ayran' prix='2,50€' image=''/>
+    
+    <boisson nom='Bière bouteille 25cl' prix='3,00€' image=''/>
+    <boisson nom='Bière canette 33cl' prix='3,50€' image=''/>
+    <boisson nom='Bière cannette 50cl' prix='4,00€' image=''/>
+    
+    <boisson nom='Café' prix='1,80€' image=''/>
+    <boisson nom='Café allongé' prix='1,90€' image=''/>
+    <boisson nom='Thé' prix='3,00€' image=''/>
+    
+  </liste_boissons>
+  <liste_barquettes>
+    <barquette nom='Viande' prix='6,00€' image=''/>
+    <barquette nom='Boulghour (blé)' prix='3,00€' image=''/>
+    <barquette nom='Frites (moyenne)' prix='4,00€' image=''/>
+    <barquette nom='Frites (grande)' prix='5,50€' image=''/>
+  </liste_barquettes>
+  <suppléments>
+    <supplément nom='Galette' prix='0,10€' image=''/>
+    <supplément nom='Sauce' prix='0,40€' image=''/>
+    <supplément nom='Fromage' prix='0,70€' image=''/>
+    <supplément nom='Oeuf' prix='1,50€' image=''/>
+    <supplément nom='Viande' prix='3,00€' image=''/> 
+  </suppléments>
+  <menu_enfant nom='Nuggets, frites, compote, caprisun' prix='7,00€' image='' />
+  <sauces>
+    <sauce nom='Blanche (maison)' image=''/>
+    <sauce nom='Mayonnaise' image=''/>
+    <sauce nom='Ketchup' image=''/>
+    <sauce nom='Harissa' image=''/>
+    <sauce nom='Barbecue' image=''/>
+    <sauce nom='Samouraï' image=''/>
+    <sauce nom='Algérienne' image=''/>
+    <sauce nom='Biggyburger' image=''/>
+  </sauces>
+</menu>
